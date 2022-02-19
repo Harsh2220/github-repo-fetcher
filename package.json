@@ -1,14 +1,26 @@
 {
   "name": "github-repo-fetcher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get a list of Github repositories by username.",
   "main": "index.js",
+  "homepage": "https://github.com/Harsh2220/github-repo-fetcher",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Harsh",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harsh2220/github-repo-fetcher.git"
+  },
   "dependencies": {
     "axios": "^0.26.0"
-  }
+  },
+  "keywords": [
+    "github",
+    "repos",
+    "repositories",
+    "sort",
+    "stars"
+  ],
+  "author": "Harsh Sachaniya",
+  "license": "ISC"
 }
